@@ -2,6 +2,8 @@
 
 Shuffle text just for fun
 
+[![CodeQL](https://github.com/ilyabrin/go-shuffle/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ilyabrin/go-shuffle/actions/workflows/codeql-analysis.yml)
+
 ### Install
 
 ```sh
